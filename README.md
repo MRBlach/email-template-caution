@@ -1,5 +1,5 @@
 <h1 align="center">
-Example Success HTML Email Template
+Example Caution HTML Email Template
 </h1> 
 <p align="center">
   <a href="https://saythanks.io/to/melodyblachowicz%40gmail.com">
@@ -20,11 +20,11 @@ Example Success HTML Email Template
 
 <h1 id="introduction">Introduction</h1>
 
-Responsive email template for successful notification. Let your client know their action was a success.
+Responsive email template for caution notification. Let your client know that something is at risk.
 
 <img src="https://i.ibb.co/9r7yLRn/viewport.png" alt="viewport" border="0">
 
-Here is a working live demonstration: https://mrblach.github.io/email-template-success/
+Here is a working live demonstration: https://mrblach.github.io/email-template-caution/
 
 ### Steps To Execute This App
 - Download the entire code
@@ -60,9 +60,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug Report/ Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/MRBlach/email-template-success/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/MRBlach/email-template-caution/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MRBlach/email-template-success/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MRBlach/email-template-caution/issues/new). Please include sample queries and their corresponding results.
 
 ---
 <h1 id="team">Team</h1>
@@ -84,4 +84,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### You may also like..
 
-+ [HTML Email Template: sign-up confirmation](https://github.com/MRBlach/email-template-danger "example error email") - template for error email.
++ 
