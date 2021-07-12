@@ -22,7 +22,7 @@ Example Caution HTML Email Template
 
 Responsive email template for caution notification. Let your client know that something is at risk.
 
-<img src="https://i.ibb.co/9r7yLRn/viewport.png" alt="viewport" border="0">
+<img src="https://i.ibb.co/KF1t6g4/caution-Viewport.png" alt="caution-Viewport" border="0">
 
 Here is a working live demonstration: https://mrblach.github.io/email-template-caution/
 
