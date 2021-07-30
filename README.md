@@ -24,7 +24,7 @@ Responsive email template for caution notification. Let your client know that so
 
 <img src="https://i.ibb.co/KF1t6g4/caution-Viewport.png" alt="caution-Viewport" border="0">
 
-Here is a working live demonstration: https://mrblach.github.io/email-template-caution/
+Here is a working live [demonstration](https://mrblach.github.io/email-template-caution/)
 
 ### Steps To Execute This App
 - Download the entire code
